@@ -1,0 +1,16 @@
+# Machine-specific temporary files and runtime logs
+*.log
+*.pid
+error_log.txt
+cf_tunnel.log
+service.pid
+viewer_link.txt
+
+# Local credentials & device identifiers
+activation_cache.json
+auth_config.json
+device_id.dat
+
+# Windows / OS files
+Thumbs.db
+Desktop.ini
